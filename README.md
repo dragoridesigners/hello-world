@@ -1,2 +1,2 @@
 # hello-world
-testing
+learning to use git as a managing tool for game design
